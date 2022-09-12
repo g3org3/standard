@@ -1,0 +1,3 @@
+[submodule "src/mylib"]
+	path = src/mylib
+	url = git@github.com:g3org3/components.git
